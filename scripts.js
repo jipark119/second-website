@@ -56,7 +56,7 @@ window.onload=function(){
     }
 
     function getRandomPosition() {
-         const w =   screen.width+200;
+        const w =   screen.width+200;
         const h = screen.height+700;
         const randomX = Math.floor(Math.random()*w);
         const randomY = Math.floor(Math.random()*h);

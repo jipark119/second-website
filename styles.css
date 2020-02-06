@@ -225,5 +225,8 @@ a{
     button{
         left:45%;
     }
+    #eggy{
+        display: none;
+    }
 
   }
